@@ -1,0 +1,6 @@
+cd .circleci/files
+aws cloudformation deploy --template-file cloudfront.yml --stack-name udapeople-cloudfront --parameter-overrides WorkflowID=anas242 --profile udapeople
+
+
+
+	87:0e:c9:3d:ef:38:5a:9a:09:de:d7:9f:f7:a3:0b:39
