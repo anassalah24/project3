@@ -7,6 +7,12 @@ aws cloudformation deploy --template-file cloudfront.yml --stack-name udapeople-
 
 URL1 : https://github.com/anassalah24/project3.git
 
-URL2 :  
+URL2 :  <bucket URL>
+
+URL3 : <CFD domain name>
+
+URL4 : <http://3.209.143.118:3030/api/status>
+
+
 
 
